@@ -1,9 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+This project is to build a movie database that stores movie, genre, production, language information and build a movie search engine website that is based on the movie database and allows users register their account and create their own movie list. The database is a SQL database built on Azure.
 
-\f0\fs24 \cf0 This project is for IMT563 2020 Spring Final Project\
-}
+untitiled.ipynb: Scraping data from IMDB
+Data: saving craped movie data
+others: creating the web
+
