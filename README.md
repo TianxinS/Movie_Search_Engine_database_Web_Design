@@ -4,3 +4,7 @@ untitiled.ipynb: Scraping data from IMDB
 Data: saving craped movie data
 others: creating the web
 
+## Changed project direction to a movie search engine with streaming platform information providing. 5/21/2020
+
+Wrapped up untitiled.ipynb to IMDB Data Access.ipynb
+Added database ERD, set up SQL server and built the database on SQL server
